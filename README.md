@@ -5,4 +5,4 @@ Projets wiki repository
 
 {{math|<var>x</var>}}
 
-{{math|''&alpha;''}}
+&alpha

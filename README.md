@@ -15,3 +15,5 @@ Projets wiki repository
 <chem>H2O</chem>
 
 :<math>\int_0^\infty e^{-x^2}\,dx.</math>
+
+''f''(''x'') {{=}} ''x''<sup>2</sup>

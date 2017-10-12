@@ -19,8 +19,9 @@ $$\sum_{i=0}^\infty 2^{-i}$$
 f(x) = x <sup>2</sup>
 
 
-[f1]: http://chart.apis.google.com/chart?cht=tx&chl=m=\frac{m_0}{\sqrt{1-{\frac{v^2}{c^2}}}}
+[f1]: m=\frac{m_0}{\sqrt{1-{\frac{v^2}{c^2}}}}
 [f2]: http://chart.apis.google.com/chart?cht=tx&chl=m=\frac{1}{5}
+
 ![f1]
 
 ![f2]

@@ -8,7 +8,7 @@ Projets wiki repository
 &alpha;
 
 
-<math>\sum_{i=0}^\infty 2^{-i}</math>
+$$\sum_{i=0}^\infty 2^{-i}$$
 
 <math>\oiint_{\scriptstyle S}( \nabla \times \bold{F} ) \cdot {\rm d}\bold{S} = \oint_{\partial S} \bold{F} \cdot {\rm d}\boldsymbol{\ell} </math>
 

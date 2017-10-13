@@ -1,7 +1,7 @@
 # ProjectsWiki
 Projets wiki repository
 
-<math>LaTex</math>
+<math>\LaTex</math>
 
 {{math|<var>x</var>}}
 
